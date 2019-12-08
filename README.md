@@ -27,6 +27,11 @@ This is very useful for anyone who want to start make a themes or plugins for Wo
 * APIs
 * Semantic Versioning
 * Design Patterns
+* Cross Browser Compatibility
+* Web Performance
+* W3C Validation
+* WordPress Localization
+* WordPress Security
 
 ## Theme Development
 * [WordPress Theme Developer Handbook](https://developer.wordpress.org/themes/)
